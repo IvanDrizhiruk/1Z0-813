@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Hello world!
  */
-public class Generics {
+public class P06Generics {
 
     public static void main(String[] args) {
         //Producer Extends Consumer Super (PECS)

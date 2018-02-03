@@ -2,12 +2,12 @@ package ua.pd.oracle;
 
 import java.util.function.Function;
 
-public class Lambda {
+public class P09Lambda {
 
     private int number = 10;
 
     public static void main(String[] args) {
-        new Lambda().go();
+        new P09Lambda().go();
     }
 
     public void go() {
